@@ -1,9 +1,7 @@
 # Test-Visualization
-Test visualization for Pascal Van Hentenryck's Lab
+Test visualization for Pascal Van Hentenryck's Lab.
 
-For macOS, you will need to install glfw and glew3 in order to run the program
-
-Best way is to use brew
+For macOS, you will need to install glfw and glew3 in order to run the program. Best way is to use brew.
 
 brew install glfw3
 
