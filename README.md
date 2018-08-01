@@ -16,3 +16,5 @@ GLFW Download Link: http://www.glfw.org/
 For windows users follow the following tutorial below
 
 YouTube: https://bit.ly/2OC4UBS
+
+For camera controls, use mouse and W, A, S, D keys to navigate
